@@ -1,0 +1,7 @@
+*.db
+*.sum
+*.exe
+*.jpg
+*.jpeg
+*.md
+uploads/
