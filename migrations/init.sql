@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS images_meta (
+	id TEXT PRIMARY KEY,
+	name TEXT NOT NULL,
+	format TEXT NOT NULL,
+	mime_type TEXT NOT NULL,
+	size INTEGER NOT NULL,
+	uploaded_at TEXT NOT NULL
+);
